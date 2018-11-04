@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538973828 source:d:\c\snake1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SNAKE1.h"
+
+1541323689 d:\c\snake1\snake1.h
+	<windows.h>
+
